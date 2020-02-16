@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425381223305",
+    "firebase_url": "https://inspirational-quotes-c1ed4.firebaseio.com",
+    "project_id": "inspirational-quotes-c1ed4",
+    "storage_bucket": "inspirational-quotes-c1ed4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425381223305:android:fdf05440f56cd775e55f58",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.lecture14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425381223305-0ntdf70a50e376puiunagdjlu4v4c2rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.lecture14",
+            "certificate_hash": "8cb0c5d5d58a65896c66639e34c050b4a01c76e4"
+          }
+        },
+        {
+          "client_id": "425381223305-do27s57r2e9pg7unbvq2d7ei00lla312.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCffQSDQv5kW2UkgcMlmUPRQ3pZ2TtDmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425381223305-do27s57r2e9pg7unbvq2d7ei00lla312.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
